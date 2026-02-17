@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm YongTae Kim</h1>
+  <h1>Hello, I'm Yongtae Kim</h1>
   <p>Studying Data Intelligence and Computer Science at Hanyang University ERICA.</p>
   <p>I want to graduate.</p>
 </div>
