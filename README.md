@@ -52,19 +52,19 @@
       <tr>
         <th align="left">Period</th>
         <th align="left">Experience</th>
-        <th align="left">Role / Note</th>
+        <th align="left">Note</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="left"><b>2026.09 - Present</b></td>
         <td align="left">한양대학교 ERICA 컴퓨터학부</td>
-        <td align="left">다중전공</td>
+        <td align="left">-</td>
       </tr>
       <tr>
         <td align="left"><b>2026.09 - Present</b></td>
         <td align="left">UMC 11th</td>
-        <td align="left">-</td>
+        <td align="left">Product Engineering: Mobile</td>
       </tr>
       <tr>
         <td align="left"><b>2026.06 - 2026.09</b></td>
@@ -74,7 +74,7 @@
       <tr>
         <td align="left"><b>2026.03 - 2026.08</b></td>
         <td align="left">UMC 10th</td>
-        <td align="left">SpringBoot Developer</td>
+        <td align="left">Node.js</td>
       </tr>
       <tr>
         <td align="left"><b>2023.03 - Present</b></td>
@@ -116,7 +116,7 @@
         <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white" /><br><br>
         <b>✨ Key Features</b>
         <ul>
-          <li>디지털 옷장 데이터 모델링 및 REST API 설계</li>
+          <li>디지털 옷장 데이터 모델링, REST API 설계</li>
         </ul>
         <b>🔗 Links</b><br>
         <a href="https://github.com/Fitty2026">GitHub</a> | <a href="https://fitty-2026.vercel.app/">Service Link</a>
