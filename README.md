@@ -1,7 +1,7 @@
 <!---------------자기소개--------------->
 <div align="center">
   <h1>Hello, I'm Yongtae Kim</h1>
-  <p>Studying Data Intelligence, Computer Science, <br>minoring in Convergence Security at Hanyang University ERICA.</p>
+  <p>Studying Data Intelligence and Computer Science, <br>minoring in Convergence Security at Hanyang University ERICA.</p>
   <a href="https://myhits.vercel.app" target="_blank">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkyle891204?color=blue&label=hits&size=small" alt="hits" />
   </a>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 
-  <b>Infrastructure & Hardware</b><br>
+  <b>Cloud & Hardware</b><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 
@@ -91,7 +91,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3><a href="프로젝트1_링크">Growmate</a></h3>
-        <p><i>피지컬컴퓨팅:라즈베리파이 스마트화분</i></p>
+        <p><i>피지컬컴퓨팅:Raspberry pi 기반 스마트화분</i></p>
         <b>🛠 Tech Stack</b><br>
         <img src="https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
         <img src="[https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)" />
@@ -129,7 +129,7 @@
   <a href="https://shimmer-soy-9ed.notion.site/PORTFOLIO-3d1f2e6f7cc780c3a7bce9be16e70b8a?pvs=73" target="_blank">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" />
   </a>
-  <a href="mailto:dydxo0612@hanynag.ac.kr">
+  <a href="mailto:dydxo0612@hanyang.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
