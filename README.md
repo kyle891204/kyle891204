@@ -2,9 +2,6 @@
 <div align="center">
   <h1>Hello, I'm Yongtae Kim</h1>
   <p>Studying Data Intelligence and Computer Science, <br>minoring in Convergence Security at Hanyang University ERICA.</p>
-  <a href="https://myhits.vercel.app" target="_blank">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkyle891204?color=blue&label=hits&size=small" alt="hits" />
-  </a>
 </div>
 
 <!---------------Stack, Tools--------------->
@@ -131,6 +128,9 @@
   </a>
   <a href="mailto:dydxo0612@hanyang.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://myhits.vercel.app" target="_blank">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkyle891204?style=flat-square&color=blacklabel=hits&size=small" alt="hits" />
   </a>
 
 <h2></h2>
