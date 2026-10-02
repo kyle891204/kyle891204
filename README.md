@@ -53,7 +53,7 @@
     <tbody>
       <tr>
         <td align="left"><b>2026.09 - Present</b></td>
-        <td align="left">한양대학교 ERICA 컴퓨터학부</td>
+        <td align="left">Hanyang University ERICA Computer Science</td>
         <td align="left">-</td>
       </tr>
       <tr>
@@ -73,8 +73,8 @@
       </tr>
       <tr>
         <td align="left"><b>2023.03 - Present</b></td>
-        <td align="left">한양대학교 ERICA ICT융합학부</td>
-        <td align="left">데이터인텔리전스전공</td>
+        <td align="left">Hanyang University ERICA ICT Convergence Department</td>
+        <td align="left">Data Intelligence Major</td>
       </tr>
     </tbody>
   </table>
@@ -88,7 +88,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3><a href="프로젝트1_링크">Growmate</a></h3>
-        <p><i>피지컬컴퓨팅:Raspberry pi 기반 스마트화분</i></p>
+        <p><i>Physical Computing: Raspberry Pi based Smart Plant Pot</i></p>
         <b>🛠 Tech Stack</b><br>
         <img src="https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
         <img src="[https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)" />
@@ -97,21 +97,21 @@
         <br><br>
         <b>✨ Key Features</b>
         <ul>
-          <li>아두이노 기반 제어 회로 설계</li>
-          <li>하드웨어-서버 연동 API 구축</li>
+          <li>Arduino-Based Control Circuit Design</li>
+          <li>Hardware Server Integration API Implementation</li>
         </ul>
         <b>🔗 Links</b><br>
         <a href="https://github.com/kyle891204/growmate-physicalcomputing">GitHub</a> |
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/Fitty2026">Fitty</a></h3>
-        <p><i>상황과 사용자 옷장 데이터를 결합한 맞춤형 코디 추천 서비스</i></p>
+        <p><i>Personalized outfit recommendation service that combines context and user wardrobe data</i></p>
         <b>🛠 Tech Stack</b><br>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
         <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white" /><br><br>
         <b>✨ Key Features</b>
         <ul>
-          <li>디지털 옷장 데이터 모델링, REST API 설계</li>
+          <li>Digital Wardrobe Data Modeling, REST API Design</li>
         </ul>
         <b>🔗 Links</b><br>
         <a href="https://github.com/Fitty2026">GitHub</a> | <a href="https://fitty-2026.vercel.app/">Service Link</a>
